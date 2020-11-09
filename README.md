@@ -5,8 +5,10 @@ I used 2 datasets
 
 ### 1)Matches dataset - 
 
-Which contain data about all matches from 2008-2019.
+Which contain data about all matches from 2008-2019. It has 256 rows and 18 features.
 
 ### 2)Deliveries dataset - 
 
-Which contain data about every ball of the match.
+Which contain data about every ball of the match. It has 179078 rows and 21 features.
+
+'Match_id' column is common between both datasets.
