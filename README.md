@@ -1,7 +1,7 @@
 # IPL-2020-Data-Analysis-All-Matches-
 Widhya is a organization who conducted data analytics hackathon on 2020 IPL for 1month which is called WPL. They will post 5 Questions for each match and we have to come up with data driven strategies.
 
-I got 9th Rank out of 1800 participants.
+I got 9th Rank out of 1800 participants. Below image is leaderboard of WPL.
 
 ![WPLfinalLeaderboard](https://user-images.githubusercontent.com/60570613/99804647-530b3e80-2b61-11eb-9c4d-f59d2cabc4d1.JPG)
 
