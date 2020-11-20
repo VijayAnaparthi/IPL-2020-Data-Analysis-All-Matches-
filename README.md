@@ -3,7 +3,7 @@ Widhya is a organization who conducted data analytics hackathon on 2020 IPL for 
 
 I got 9th Rank out of 1800 participants.
 
-![alt text](https://github.com/[VijayAnaparthi]/[IPL-2020-Data-Analysis-All-Matches-]/blob/[main]/WPLfinalLeaderboard.jpg?raw=true)
+![WPLfinalLeaderboard](https://user-images.githubusercontent.com/60570613/99804647-530b3e80-2b61-11eb-9c4d-f59d2cabc4d1.JPG)
 
 I used 2 datasets for this hackathon
 
